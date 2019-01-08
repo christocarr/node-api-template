@@ -1,0 +1,24 @@
+{
+  "name": "api-template",
+  "version": "1.0.0",
+  "description": "simple node api template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christocarr/node-api-template.git"
+  },
+  "author": "Chris Carr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christocarr/node-api-template/issues"
+  },
+  "homepage": "https://github.com/christocarr/node-api-template#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
